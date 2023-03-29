@@ -2,6 +2,9 @@
 
 I'm a student of HCM International University - Applied Mathematics
 
+- 🔭 Researching data and analyze them are what i love
+- 🌱 I relatively good in using C++ and python.
+- 🤔 I know a little bit of Java
 <!--
 **DacCute/DacCute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
